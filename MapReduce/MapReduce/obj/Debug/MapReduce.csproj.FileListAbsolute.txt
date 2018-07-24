@@ -1,0 +1,7 @@
+C:\Users\stijn\source\repos\MapReduce\MapReduce\bin\Debug\MapReduce.exe.config
+C:\Users\stijn\source\repos\MapReduce\MapReduce\bin\Debug\MapReduce.exe
+C:\Users\stijn\source\repos\MapReduce\MapReduce\bin\Debug\MapReduce.pdb
+C:\Users\stijn\source\repos\MapReduce\MapReduce\obj\Debug\MapReduce.csprojResolveAssemblyReference.cache
+C:\Users\stijn\source\repos\MapReduce\MapReduce\obj\Debug\MapReduce.csproj.CoreCompileInputs.cache
+C:\Users\stijn\source\repos\MapReduce\MapReduce\obj\Debug\MapReduce.exe
+C:\Users\stijn\source\repos\MapReduce\MapReduce\obj\Debug\MapReduce.pdb
